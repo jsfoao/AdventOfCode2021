@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = AdventOfCode2021
-build_property.ProjectDir = C:\Users\joao.freire\RiderProjects\AdventOfCode2021\AdventOfCode2021\
+build_property.ProjectDir = D:\Documents\Github Repositories\AdventOfCode2021\

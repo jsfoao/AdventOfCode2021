@@ -14,3 +14,19 @@ C:\Users\joao.freire\RiderProjects\AdventOfCode2021\AdventOfCode2021\obj\Debug\n
 C:\Users\joao.freire\RiderProjects\AdventOfCode2021\AdventOfCode2021\obj\Debug\net5.0\ref\AdventOfCode2021.dll
 C:\Users\joao.freire\RiderProjects\AdventOfCode2021\AdventOfCode2021\obj\Debug\net5.0\AdventOfCode2021.pdb
 C:\Users\joao.freire\RiderProjects\AdventOfCode2021\AdventOfCode2021\obj\Debug\net5.0\AdventOfCode2021.genruntimeconfig.cache
+D:\Documents\Github Repositories\AdventOfCode2021\bin\Debug\net5.0\AdventOfCode2021.exe
+D:\Documents\Github Repositories\AdventOfCode2021\bin\Debug\net5.0\AdventOfCode2021.deps.json
+D:\Documents\Github Repositories\AdventOfCode2021\bin\Debug\net5.0\AdventOfCode2021.runtimeconfig.json
+D:\Documents\Github Repositories\AdventOfCode2021\bin\Debug\net5.0\AdventOfCode2021.runtimeconfig.dev.json
+D:\Documents\Github Repositories\AdventOfCode2021\bin\Debug\net5.0\AdventOfCode2021.dll
+D:\Documents\Github Repositories\AdventOfCode2021\bin\Debug\net5.0\ref\AdventOfCode2021.dll
+D:\Documents\Github Repositories\AdventOfCode2021\bin\Debug\net5.0\AdventOfCode2021.pdb
+D:\Documents\Github Repositories\AdventOfCode2021\obj\Debug\net5.0\AdventOfCode2021.csproj.AssemblyReference.cache
+D:\Documents\Github Repositories\AdventOfCode2021\obj\Debug\net5.0\AdventOfCode2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github Repositories\AdventOfCode2021\obj\Debug\net5.0\AdventOfCode2021.AssemblyInfoInputs.cache
+D:\Documents\Github Repositories\AdventOfCode2021\obj\Debug\net5.0\AdventOfCode2021.AssemblyInfo.cs
+D:\Documents\Github Repositories\AdventOfCode2021\obj\Debug\net5.0\AdventOfCode2021.csproj.CoreCompileInputs.cache
+D:\Documents\Github Repositories\AdventOfCode2021\obj\Debug\net5.0\AdventOfCode2021.dll
+D:\Documents\Github Repositories\AdventOfCode2021\obj\Debug\net5.0\ref\AdventOfCode2021.dll
+D:\Documents\Github Repositories\AdventOfCode2021\obj\Debug\net5.0\AdventOfCode2021.pdb
+D:\Documents\Github Repositories\AdventOfCode2021\obj\Debug\net5.0\AdventOfCode2021.genruntimeconfig.cache

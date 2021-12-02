@@ -5,8 +5,9 @@ namespace AdventOfCode2021
 {
     class Program
     {
-        static readonly string textFile = @"C:\Users\joao.freire\RiderProjects\AdventOfCode2021\AdventOfCode2021\Input.txt";
-        public static int[] Read(string textFile)
+        static readonly string textFile = @"D:\Documents\Github Repositories\AdventOfCode2021\Input.txt";
+        
+        public static string[] ReadInput(string textFile)
         {
             if (!File.Exists(textFile))
             {
@@ -16,18 +17,14 @@ namespace AdventOfCode2021
             Console.WriteLine("Found file!");
             
             string[] lines = File.ReadAllLines(textFile);
-            int[] arr = new int[lines.Length];
-            for (int i = 0; i < lines.Length; i++)
-            {
-                arr[i] = int.Parse(lines[i]);
-            }
-            return arr;
+            return lines;
         }
         
         static void Main(string[] args)
         {
-            int[] Data = Read(textFile);
-            Day1.WriteAnswer(Data);
+            string[] inputText = ReadInput(textFile);
+            
+            Day2.WriteAnswer(inputText);
         }
     }
 }

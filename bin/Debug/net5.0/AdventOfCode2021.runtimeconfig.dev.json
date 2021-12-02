@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\joao.freire\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\joao.freire\\.nuget\\packages"
+      "C:\\Users\\jsfoa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jsfoa\\.nuget\\packages"
     ]
   }
 }
